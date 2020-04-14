@@ -1,0 +1,22 @@
+{
+  "name": "rtu-webelements",
+  "version": "0.1.0",
+  "description": "This is a set of web elements often used in my web development.",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemiyonuchin/rtu-webelements.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "webelements"
+  ],
+  "author": "Onuchin Artemiy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artemiyonuchin/rtu-webelements/issues"
+  },
+  "homepage": "https://github.com/artemiyonuchin/rtu-webelements#readme"
+}

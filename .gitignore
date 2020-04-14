@@ -1,0 +1,14 @@
+﻿# FOLDER
+/node_modules/
+
+# FILES
+*.ini
+*.rar
+*.zip
+*.7z
+*.gz
+*.gzip
+*.tar
+*.tar-gz
+*.tgz
+*.txt
