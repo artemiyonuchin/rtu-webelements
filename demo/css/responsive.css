@@ -1,0 +1,17 @@
+@media (min-width: 768px) {
+    .list {
+        width: 50%;
+    }
+}
+
+@media (min-width: 1024px) {
+    .list {
+        width: 33.333333%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .list {
+        width: 20%;
+    }
+}
